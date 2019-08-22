@@ -15,4 +15,5 @@ cd到文件夹下=》修改好东西后。
 5.git status 查看状态（无状态进行push，有变化再次git add。。。。）
 6.git push 地址.git master推送文件夹
 
-
+怎么clone github上的代码
+git clone 地址.git master
