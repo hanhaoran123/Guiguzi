@@ -4,3 +4,15 @@ Guiguzi
 鬼谷子
 ----------------------
 用途：算卦
+
+23:12 2019/8/22
+怎么通过git把本地文件推到github上
+1.git bash
+cd到文件夹下=》修改好东西后。
+2.git init，初始化一下
+3.git add将文件夹加到暂存区
+4.git commit -m “备注”
+5.git status 查看状态（无状态进行push，有变化再次git add。。。。）
+6.git push 地址.git master推送文件夹
+
+
